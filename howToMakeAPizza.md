@@ -1,4 +1,4 @@
-# Como hacer una pizza
+# Receta de Pizza 🍕
 
 ## ingredientes 
 - Levadura fresca
