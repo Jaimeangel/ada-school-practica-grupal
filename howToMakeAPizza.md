@@ -1,30 +1,26 @@
 # Receta de Pizza 🍕
 
-## Ingredientes
-
-- Base de pizza
+## ingredientes 
+- Levadura fresca
+- Agua templada
+- Aceite
+- Harina
 - Salsa de tomate
-- Queso mozzarella
-- Ingredientes a elección (por ejemplo, champiñones, jamón, pimientos, aceitunas)
-- Orégano
-- Aceite de oliva
-- Sal y pimienta
+- Queso
+- Champiñones
+- Opcional: otros ingredientes para los toppings, según tus preferencias
 
-## Instrucciones
+### preparacion 
 
-1. Precalienta el horno a 220°C.
+1. Crear la masa con levadura fresca y agua templada y mezclarlas
+2. Luego se le agrega a la mezcla dos cucharadas de aceite
+3. Luego hechar esto en un tazon y mezclar bien con harina
+4. Amasar bien hasta que deje de pegarse en nuestras manos
+5. Cuando esten listas, taparlas con un trapo seco y limpio por 45 minutos
+6. La masa deberia haber duplicado su volumen pasado el tiempo, colocar en una mesa con un poco de harina encima
+7. Estirar la masa con las manos
+8. Una vez bien estirada se le agregan salsa de tomato, queso, y otros toppings que prefiera
+9. Precalentar el horno a temperatura maxima por 20 minutos
+10. Pasado el tiempo, colocar la pizza en el horno por 10 minutos
 
-2. Extiende la base de pizza en una bandeja.
-
-3. Cubre con salsa de tomate y espolvorea queso mozzarella.
-
-4. Agrega los ingredientes de tu elección.
-
-5. Espolvorea orégano, añade aceite de oliva, sal y pimienta.
-
-6. Hornea durante 12-15 minutos hasta que esté dorada.
-
-7. Sirve y disfruta.
-
-¡Buen provecho!
-
+### Y listo, a disfrutar de una buena pizza
